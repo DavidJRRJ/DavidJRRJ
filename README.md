@@ -12,8 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJRRJ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills:
-
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
   <img align="center"alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img align="center"alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center"alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -29,4 +28,4 @@
 </div>
 
 <br/>
-Engenheiro de controle e automação e futuro Desenvolvedor Web (Full Stack).
+<h4>Engenheiro de controle e automação e futuro Desenvolvedor Web (Full Stack).</h4>
