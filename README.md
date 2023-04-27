@@ -1,4 +1,4 @@
-### Olá! Eu sou o David Junior ✋🏽
+Olá! Meu nome é David, sou Eng. de Controle e Automação e Desenvolvedor Full-Stack. Possuo habilidades com tecnologias de Front-end como Javascript, CSS e React, e tecnologias Back-end como Docker, MySQL, Sequelize, MongoDB, Node e Typescript. Apesar de ter preferência por atuar com Back-end, estou aberto a novas experiências e desafios na área de tecnologia. Atualmente, estou em busca de oportunidades para ingressar no mercado de trabalho e contribuir com meus conhecimentos e habilidades.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/davidjrrj/)
@@ -28,4 +28,4 @@
 </div>
 
 <br/>
-<h4>Engenheiro de controle e automação e futuro Desenvolvedor Web (Full Stack).</h4>
+<h4>Engenheiro de Controle e Automação e Desenvolvedor Web (Full Stack).</h4>
